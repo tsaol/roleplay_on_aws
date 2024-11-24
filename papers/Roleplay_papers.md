@@ -1,7 +1,6 @@
 # Role Playing-Papers
 (https://github.com/zjunlp/ModelEditingPapers) 
 
-Based on the search results, I'll create a focused overview of role-playing language model datasets:
 
 ## 基于角色的数据集
 Based on the search results, I'll create a focused overview of role-playing language model datasets:
